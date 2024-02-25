@@ -80,4 +80,4 @@
 - draw landmark on the hand
 - extract X and Y coordinate on landmark
 - prediction and display.
-  ![handB](https://github.com/yihadd/sign-language-detector-python/assets/141911690/0296b912-d4c0-47dc-8a65-562be1009888)
+-  ![handB](https://github.com/yihadd/sign-language-detector-python/assets/141911690/0296b912-d4c0-47dc-8a65-562be1009888)
